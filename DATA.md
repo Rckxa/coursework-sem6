@@ -6,9 +6,10 @@ file: API_NY.GDP.MKTP.KD.ZG_DS2_en_csv_v2_121708
 source: https://data.worldbank.org/indicator/NE.EXP.GNFS.CD
 file: API_NE.EXP.GNFS.CD_DS2_en_csv_v2_3934
 
-3. FDI inflows 
+3. FDI inflows (% of GDP)
 source: https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD?locations=ZM
-file: API_BX.KLT.DINV.CD.WD_DS2_en_csv_v2_117648
+<!-- file: API_BX.KLT.DINV.CD.WD_DS2_en_csv_v2_117648 -->
+file: API_BX.KLT.DINV.WD.GD.ZS_DS2_en_csv_v2_115540
 
 
 4. Exchange rate
