@@ -29,6 +29,10 @@ file: API_20_DS2_en_csv_v2_39106
 source: https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=ZM
 file: API_AG.LND.PRCP.MM_DS2_en_csv_v2_7937
 
-8. Years (1990 - 2023)
+8. GDP per capita
+source: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+file: API_NY.GDP.PCAP.CD_DS2_en_csv_v2_121663
+
+9. Years (1990 - 2023)
 
 

@@ -1,4 +1,4 @@
-,index,ZMB GDP growth (annual %),CHE GDP growth (annual %),CHN GDP growth (annual %),ZAF GDP growth (annual %),Exports of goods and services (current US$),"Foreign direct investment, net inflows (% of GDP)",Copper ($/mt),External debt stocks (% of GNI),Average precipitation in depth (mm per year)
+,Year,GDP,CHE,CHN,ZAF,EXP,FDI,COP,DEBT,PRECIP
 0,1960.0,221.559848922849,1954.3113206427,89.7150749167731,532.147504330332,,,678.75583333333,,
 1,1961.0,209.693206426951,2155.44996908648,75.9655011127574,545.657511922673,,,633.08416666667,,1020.0
 2,1962.0,202.28103119051,2330.47736501501,71.0616845971262,563.423008817945,,,645.14333333333,,1020.0
